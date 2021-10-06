@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pavarotin
-- 👀 I’m interested in huy znaet
+- 👀 I’m interested in znaet
 - 🌱 I’m currently learning pihton
-- 💞️ I’m looking to collaborate on your mother
+- 💞️ I’m looking to collaborate on your mo
 - 📫 How to reach me gus
 
 <!---
